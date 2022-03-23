@@ -1,0 +1,1 @@
+{"uuid":"005790d0-7c03-41cd-936a-d47a11dc0fa2","name":"amazonLogin()","children":["0cb5ecc5-3ad2-4895-af21-da9a592e284d"],"befores":[{"name":"beforeEach","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1642632646776,"stop":1642632650235}],"afters":[],"start":1642632646684,"stop":1642632653412}

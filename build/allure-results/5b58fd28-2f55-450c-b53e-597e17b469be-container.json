@@ -1,0 +1,1 @@
+{"uuid":"5b58fd28-2f55-450c-b53e-597e17b469be","name":"SeleniumTest","children":["6450ec8e-eeb9-4b46-a3ae-6b62f6360a16"],"befores":[{"name":"beforeAll","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1645782705552,"stop":1645782705554}],"afters":[],"start":1645782705484,"stop":1645782723511}

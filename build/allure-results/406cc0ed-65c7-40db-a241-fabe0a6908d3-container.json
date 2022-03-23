@@ -1,0 +1,1 @@
+{"uuid":"406cc0ed-65c7-40db-a241-fabe0a6908d3","name":"amazonMouse()","children":["0efb4a61-2b72-4a9a-a5bd-b361fd449ba4"],"befores":[{"name":"beforeEach","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1645806362420,"stop":1645806367662}],"afters":[],"start":1645806362314,"stop":1645806367772}

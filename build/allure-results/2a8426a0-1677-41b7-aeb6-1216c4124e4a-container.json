@@ -1,0 +1,1 @@
+{"uuid":"2a8426a0-1677-41b7-aeb6-1216c4124e4a","name":"appointmentTest()","children":["e6ed9a98-bc9e-4435-8e03-f2d1837efe58"],"befores":[{"name":"beforeEach","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1646135784655,"stop":1646135784836}],"afters":[],"start":1646135784652,"stop":1646135786253}
